@@ -2,15 +2,7 @@
 
 This project provides a sample login component built using LitElement with JavaScript.
 
-## Setup
-
-First, install the required dependencies:
-
-```bash
-npm i
-```
-
-## Go Server
+## Serve using Go Server
 
 This project uses a Go server to serve the application. To start the Go server, run the following command:
 
