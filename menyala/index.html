@@ -1,0 +1,21 @@
+<head>
+    <meta http-equiv="refresh" content="1;content">
+    <script type="module">
+        import { LitElement, html, css } from './lit-all.min.js';
+        class MyComponent extends LitElement {
+            static styles = css`
+                div {
+                    color: red;
+                }
+            `;
+            render() {
+                return html`<div>Hello, Lit!</div>`;
+                //return html``;
+            }
+        }
+        customElements.define('my-component', MyComponent);
+    </script>    
+</head>
+<body>
+    <my-component></my-component> 
+</body>
