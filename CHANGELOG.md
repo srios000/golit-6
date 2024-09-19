@@ -1,4 +1,4 @@
-# @srios000/menyala-pert6
+# @srios000/golit-6
 
 ## 0.0.1
 
