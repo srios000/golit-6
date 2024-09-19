@@ -1,4 +1,4 @@
-import {LitElement, html, css} from '/lit-all.min.js';
+import {LitElement, html, css} from '/lit-core.min.js';
 
 // Login Form Component
 class LoginForm extends LitElement {

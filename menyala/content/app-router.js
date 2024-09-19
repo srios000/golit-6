@@ -1,4 +1,4 @@
-import { LitElement, html, css } from '/lit-all.min.js';
+import { LitElement, html, css } from '/lit-core.min.js';
 import './login-form.js';
 import './secret-message.js';
 class AppRouter extends LitElement {
